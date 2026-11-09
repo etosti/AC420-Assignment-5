@@ -2,7 +2,7 @@ import yfinance as yf
 import pandas as pd
 import streamlit as st
 
-st.title("MSFT 5-Year Monthly Sharpe Ratio by Your Name")
+st.title("MSFT 5-Year Monthly Sharpe Ratio by Edoardo Tosti di Valminuta")
 
 ticker = "MSFT"
 rf_monthly = 0.0025  # 0.25% per month
